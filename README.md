@@ -35,6 +35,9 @@ chmod +x cpu-a.py
 You can also rename and move it to /usr/local/bin:
 
 sudo mv cpu-a.py /usr/local/bin/cpu-a
+
 sudo chmod +x /usr/local/bin/cpu-a
+
 Programmed by Adil Haimoura
-free opensource utility
+
+A free opensource utility
